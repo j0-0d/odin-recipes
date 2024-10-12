@@ -12,7 +12,7 @@ HTML Structure and Linking:
 Created a main index.html file as the landing page and linked it to three recipe pages using anchor tags. Included navigation links on each recipe page to return to the main page.
 
 Basic Semantic HTML & Accessibility:
-Applied basic semantic HTML elements like <strong>, <em>, and correct heading levels (<h1>,<h2>,<h3>) to structure content in a meaningful way to improve accessibility. Included alt text on images for accessibility. 
+Applied basic semantic HTML elements like strong, em, and correct heading levels (h1,h2,h3) to structure content in a meaningful way to improve accessibility. Included alt text on images for accessibility. 
 
 Image Handling:
 Linked images in multiple formats (.png, .webp, .jpg) to test browser support and performance. Adjusted image sizes with the width attribute to ensure proper display for all users, including those using screen readers.
